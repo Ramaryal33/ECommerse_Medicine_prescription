@@ -1,0 +1,2082 @@
+{
+  "Version": 1,
+  "Hash": "BAB3JjHNyaM0muILrWS8Q6OcjcPY9odhmYei6VEFMjE=",
+  "Source": "ECommerse Medicine",
+  "BasePath": "_content/ECommerse Medicine",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerse Medicine\\wwwroot",
+      "Source": "ECommerse Medicine",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\04845669-7985-473c-a89a-c27e7d3dfecc.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/04845669-7985-473c-a89a-c27e7d3dfecc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "85ooz4krzc",
+      "Integrity": "xNxBn6OXcyv5VFshpzwvkyDZeQTvcU2C3/PlM/DHTm4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\04845669-7985-473c-a89a-c27e7d3dfecc.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/1ff0da42-c1aa-4245-a89f-5b30deef0965#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c40rered5t",
+      "Integrity": "XHOuTYNG091S5QVYE/jR1o3rr04s1Mej8mDqJ5+2qaY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\2504c39d-74a6-459e-8569-1630992a4ddd.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/2504c39d-74a6-459e-8569-1630992a4ddd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozfy6wzj69",
+      "Integrity": "dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\2504c39d-74a6-459e-8569-1630992a4ddd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oc63z89fuu",
+      "Integrity": "GErUf+SY7nGoFfzHZkYMWUJF8/jmANW0PaszZm5T7KY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/5a6159b3-5b45-4510-b35f-58bb2bc1af3c#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yyg84zuh7m",
+      "Integrity": "6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\63737804-175a-43d4-a898-c1ea3eb22f04.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/63737804-175a-43d4-a898-c1ea3eb22f04#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozfy6wzj69",
+      "Integrity": "dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\63737804-175a-43d4-a898-c1ea3eb22f04.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/63ab8a5d-dc2e-4c74-aab9-106f56e90ee0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "evcnp69wuk",
+      "Integrity": "Fj5xOzMPomTkDzmJ6D85oqZMhxcIpya4j0hxKmuC7Do=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/77f29af9-3e24-4ec1-80a4-0eff4dc7d28d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gywvuqdv3z",
+      "Integrity": "aDFX1bkD8nSf7fh3SxxpelUQ5/wjirr2/xOelIciCJ4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\948a008e-cb0c-49c0-a1a0-410f154da82a.png",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/948a008e-cb0c-49c0-a1a0-410f154da82a#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yyg84zuh7m",
+      "Integrity": "6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\948a008e-cb0c-49c0-a1a0-410f154da82a.png"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/9883b631-a3a3-4c98-a8a7-aefd710f6135#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "katy0svpxw",
+      "Integrity": "zOi6JLkIk2xa3g1UDLa4k09HGBFFJB7N6WogCTCAED8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/9c7b1e3e-c6f4-4100-b04a-3ec6decd8836#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozfy6wzj69",
+      "Integrity": "dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/b0dbecd8-42a0-481a-80fe-9852a0d73302#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hd2r8h0z7u",
+      "Integrity": "Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/b98e6db0-d3af-4b62-9372-e605d363b4e2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozfy6wzj69",
+      "Integrity": "dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\cfb846eb-4b2f-47a0-b82a-0be9eb484409.png",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/cfb846eb-4b2f-47a0-b82a-0be9eb484409#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yyg84zuh7m",
+      "Integrity": "6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\cfb846eb-4b2f-47a0-b82a-0be9eb484409.png"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d25113f9-2491-4ce1-a94b-c401d67b184b.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/d25113f9-2491-4ce1-a94b-c401d67b184b#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hd2r8h0z7u",
+      "Integrity": "Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d25113f9-2491-4ce1-a94b-c401d67b184b.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d58f7200-7e82-4737-950b-75eee1386c6a.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/d58f7200-7e82-4737-950b-75eee1386c6a#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozfy6wzj69",
+      "Integrity": "dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d58f7200-7e82-4737-950b-75eee1386c6a.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d628ed1b-4c18-4476-84b0-e147649e71a5.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/d628ed1b-4c18-4476-84b0-e147649e71a5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q6810413o3",
+      "Integrity": "TsA2ys12B+foLq8TzWr6YNBRLlZcOuMCsB1jk6EIUYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\d628ed1b-4c18-4476-84b0-e147649e71a5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/def61829-a776-47a8-bcdf-36b2fb7b2fc5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "12xtdgxzf4",
+      "Integrity": "mYm/SUtPFM1qBjfqbK8c0kvCrRGNxU58e4PE6cjeTRY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\e89df759-7b87-469b-895f-2e5166d5eb62.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/e89df759-7b87-469b-895f-2e5166d5eb62#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q77tsplug1",
+      "Integrity": "xjl4kRiGy01zffn/ODkRVq5HVu4pGobnxJ0/AhzyIWU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\e89df759-7b87-469b-895f-2e5166d5eb62.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg",
+      "SourceId": "ECommerse Medicine",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\",
+      "BasePath": "_content/ECommerse Medicine",
+      "RelativePath": "uploads/f45d7c0e-5e99-4bb0-965a-3631a0442425#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ozfy6wzj69",
+      "Integrity": "dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/04845669-7985-473c-a89a-c27e7d3dfecc.85ooz4krzc.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\04845669-7985-473c-a89a-c27e7d3dfecc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNxBn6OXcyv5VFshpzwvkyDZeQTvcU2C3/PlM/DHTm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:30:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "85ooz4krzc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/04845669-7985-473c-a89a-c27e7d3dfecc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNxBn6OXcyv5VFshpzwvkyDZeQTvcU2C3/PlM/DHTm4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/04845669-7985-473c-a89a-c27e7d3dfecc.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\04845669-7985-473c-a89a-c27e7d3dfecc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xNxBn6OXcyv5VFshpzwvkyDZeQTvcU2C3/PlM/DHTm4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:30:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xNxBn6OXcyv5VFshpzwvkyDZeQTvcU2C3/PlM/DHTm4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1ff0da42-c1aa-4245-a89f-5b30deef0965.c40rered5t.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XHOuTYNG091S5QVYE/jR1o3rr04s1Mej8mDqJ5+2qaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:13:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c40rered5t"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XHOuTYNG091S5QVYE/jR1o3rr04s1Mej8mDqJ5+2qaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5513"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XHOuTYNG091S5QVYE/jR1o3rr04s1Mej8mDqJ5+2qaY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:13:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XHOuTYNG091S5QVYE/jR1o3rr04s1Mej8mDqJ5+2qaY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2504c39d-74a6-459e-8569-1630992a4ddd.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\2504c39d-74a6-459e-8569-1630992a4ddd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:31:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/2504c39d-74a6-459e-8569-1630992a4ddd.ozfy6wzj69.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\2504c39d-74a6-459e-8569-1630992a4ddd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:31:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozfy6wzj69"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/2504c39d-74a6-459e-8569-1630992a4ddd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GErUf+SY7nGoFfzHZkYMWUJF8/jmANW0PaszZm5T7KY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:28:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GErUf+SY7nGoFfzHZkYMWUJF8/jmANW0PaszZm5T7KY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.oc63z89fuu.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GErUf+SY7nGoFfzHZkYMWUJF8/jmANW0PaszZm5T7KY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:28:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oc63z89fuu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GErUf+SY7nGoFfzHZkYMWUJF8/jmANW0PaszZm5T7KY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:15:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/5a6159b3-5b45-4510-b35f-58bb2bc1af3c.yyg84zuh7m.png",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:15:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yyg84zuh7m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63737804-175a-43d4-a898-c1ea3eb22f04.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\63737804-175a-43d4-a898-c1ea3eb22f04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63737804-175a-43d4-a898-c1ea3eb22f04.ozfy6wzj69.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\63737804-175a-43d4-a898-c1ea3eb22f04.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:18:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozfy6wzj69"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/63737804-175a-43d4-a898-c1ea3eb22f04.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.evcnp69wuk.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fj5xOzMPomTkDzmJ6D85oqZMhxcIpya4j0hxKmuC7Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "evcnp69wuk"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fj5xOzMPomTkDzmJ6D85oqZMhxcIpya4j0hxKmuC7Do="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76944"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Fj5xOzMPomTkDzmJ6D85oqZMhxcIpya4j0hxKmuC7Do=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:20:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Fj5xOzMPomTkDzmJ6D85oqZMhxcIpya4j0hxKmuC7Do="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.gywvuqdv3z.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aDFX1bkD8nSf7fh3SxxpelUQ5/wjirr2/xOelIciCJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:16:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gywvuqdv3z"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aDFX1bkD8nSf7fh3SxxpelUQ5/wjirr2/xOelIciCJ4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aDFX1bkD8nSf7fh3SxxpelUQ5/wjirr2/xOelIciCJ4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:16:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aDFX1bkD8nSf7fh3SxxpelUQ5/wjirr2/xOelIciCJ4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/948a008e-cb0c-49c0-a1a0-410f154da82a.png",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\948a008e-cb0c-49c0-a1a0-410f154da82a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/948a008e-cb0c-49c0-a1a0-410f154da82a.yyg84zuh7m.png",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\948a008e-cb0c-49c0-a1a0-410f154da82a.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:12:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yyg84zuh7m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/948a008e-cb0c-49c0-a1a0-410f154da82a.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zOi6JLkIk2xa3g1UDLa4k09HGBFFJB7N6WogCTCAED8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zOi6JLkIk2xa3g1UDLa4k09HGBFFJB7N6WogCTCAED8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9883b631-a3a3-4c98-a8a7-aefd710f6135.katy0svpxw.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6418"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zOi6JLkIk2xa3g1UDLa4k09HGBFFJB7N6WogCTCAED8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:24:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "katy0svpxw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zOi6JLkIk2xa3g1UDLa4k09HGBFFJB7N6WogCTCAED8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.ozfy6wzj69.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:22:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozfy6wzj69"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b0dbecd8-42a0-481a-80fe-9852a0d73302.hd2r8h0z7u.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hd2r8h0z7u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:22:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:10:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/b98e6db0-d3af-4b62-9372-e605d363b4e2.ozfy6wzj69.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:10:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozfy6wzj69"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cfb846eb-4b2f-47a0-b82a-0be9eb484409.png",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\cfb846eb-4b2f-47a0-b82a-0be9eb484409.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/cfb846eb-4b2f-47a0-b82a-0be9eb484409.yyg84zuh7m.png",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\cfb846eb-4b2f-47a0-b82a-0be9eb484409.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "477427"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:42:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yyg84zuh7m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/cfb846eb-4b2f-47a0-b82a-0be9eb484409.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d25113f9-2491-4ce1-a94b-c401d67b184b.hd2r8h0z7u.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d25113f9-2491-4ce1-a94b-c401d67b184b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hd2r8h0z7u"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d25113f9-2491-4ce1-a94b-c401d67b184b.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d25113f9-2491-4ce1-a94b-c401d67b184b.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d25113f9-2491-4ce1-a94b-c401d67b184b.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d58f7200-7e82-4737-950b-75eee1386c6a.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d58f7200-7e82-4737-950b-75eee1386c6a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 04:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d58f7200-7e82-4737-950b-75eee1386c6a.ozfy6wzj69.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d58f7200-7e82-4737-950b-75eee1386c6a.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 04:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozfy6wzj69"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d58f7200-7e82-4737-950b-75eee1386c6a.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d628ed1b-4c18-4476-84b0-e147649e71a5.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d628ed1b-4c18-4476-84b0-e147649e71a5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TsA2ys12B+foLq8TzWr6YNBRLlZcOuMCsB1jk6EIUYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:08:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TsA2ys12B+foLq8TzWr6YNBRLlZcOuMCsB1jk6EIUYw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/d628ed1b-4c18-4476-84b0-e147649e71a5.q6810413o3.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\d628ed1b-4c18-4476-84b0-e147649e71a5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TsA2ys12B+foLq8TzWr6YNBRLlZcOuMCsB1jk6EIUYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:08:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q6810413o3"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/d628ed1b-4c18-4476-84b0-e147649e71a5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TsA2ys12B+foLq8TzWr6YNBRLlZcOuMCsB1jk6EIUYw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/def61829-a776-47a8-bcdf-36b2fb7b2fc5.12xtdgxzf4.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mYm/SUtPFM1qBjfqbK8c0kvCrRGNxU58e4PE6cjeTRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:26:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "12xtdgxzf4"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mYm/SUtPFM1qBjfqbK8c0kvCrRGNxU58e4PE6cjeTRY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5274"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mYm/SUtPFM1qBjfqbK8c0kvCrRGNxU58e4PE6cjeTRY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:26:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mYm/SUtPFM1qBjfqbK8c0kvCrRGNxU58e4PE6cjeTRY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e89df759-7b87-469b-895f-2e5166d5eb62.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\e89df759-7b87-469b-895f-2e5166d5eb62.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xjl4kRiGy01zffn/ODkRVq5HVu4pGobnxJ0/AhzyIWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:18:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xjl4kRiGy01zffn/ODkRVq5HVu4pGobnxJ0/AhzyIWU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/e89df759-7b87-469b-895f-2e5166d5eb62.q77tsplug1.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\e89df759-7b87-469b-895f-2e5166d5eb62.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5850"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xjl4kRiGy01zffn/ODkRVq5HVu4pGobnxJ0/AhzyIWU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 16:18:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q77tsplug1"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/e89df759-7b87-469b-895f-2e5166d5eb62.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xjl4kRiGy01zffn/ODkRVq5HVu4pGobnxJ0/AhzyIWU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/f45d7c0e-5e99-4bb0-965a-3631a0442425.ozfy6wzj69.jpg",
+      "AssetFile": "C:\\Users\\nitro5\\Desktop\\.Net Projects\\ECommerse Medicine\\wwwroot\\uploads\\f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6704"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 11 Jun 2025 05:39:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ozfy6wzj69"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk="
+        }
+      ]
+    }
+  ]
+}

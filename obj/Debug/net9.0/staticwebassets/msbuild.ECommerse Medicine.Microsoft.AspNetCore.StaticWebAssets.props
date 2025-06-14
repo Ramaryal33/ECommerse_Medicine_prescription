@@ -1,0 +1,364 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\04845669-7985-473c-a89a-c27e7d3dfecc.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/04845669-7985-473c-a89a-c27e7d3dfecc.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>85ooz4krzc</Fingerprint>
+      <Integrity>xNxBn6OXcyv5VFshpzwvkyDZeQTvcU2C3/PlM/DHTm4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\04845669-7985-473c-a89a-c27e7d3dfecc.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>c40rered5t</Fingerprint>
+      <Integrity>XHOuTYNG091S5QVYE/jR1o3rr04s1Mej8mDqJ5+2qaY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1ff0da42-c1aa-4245-a89f-5b30deef0965.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2504c39d-74a6-459e-8569-1630992a4ddd.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/2504c39d-74a6-459e-8569-1630992a4ddd.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ozfy6wzj69</Fingerprint>
+      <Integrity>dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\2504c39d-74a6-459e-8569-1630992a4ddd.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>oc63z89fuu</Fingerprint>
+      <Integrity>GErUf+SY7nGoFfzHZkYMWUJF8/jmANW0PaszZm5T7KY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\32ad7d29-fe4a-4032-bcbe-fbfa35cc8f32.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yyg84zuh7m</Fingerprint>
+      <Integrity>6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\5a6159b3-5b45-4510-b35f-58bb2bc1af3c.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63737804-175a-43d4-a898-c1ea3eb22f04.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/63737804-175a-43d4-a898-c1ea3eb22f04.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ozfy6wzj69</Fingerprint>
+      <Integrity>dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63737804-175a-43d4-a898-c1ea3eb22f04.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>evcnp69wuk</Fingerprint>
+      <Integrity>Fj5xOzMPomTkDzmJ6D85oqZMhxcIpya4j0hxKmuC7Do=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\63ab8a5d-dc2e-4c74-aab9-106f56e90ee0.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gywvuqdv3z</Fingerprint>
+      <Integrity>aDFX1bkD8nSf7fh3SxxpelUQ5/wjirr2/xOelIciCJ4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\77f29af9-3e24-4ec1-80a4-0eff4dc7d28d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\948a008e-cb0c-49c0-a1a0-410f154da82a.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/948a008e-cb0c-49c0-a1a0-410f154da82a.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yyg84zuh7m</Fingerprint>
+      <Integrity>6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\948a008e-cb0c-49c0-a1a0-410f154da82a.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>katy0svpxw</Fingerprint>
+      <Integrity>zOi6JLkIk2xa3g1UDLa4k09HGBFFJB7N6WogCTCAED8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9883b631-a3a3-4c98-a8a7-aefd710f6135.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ozfy6wzj69</Fingerprint>
+      <Integrity>dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\9c7b1e3e-c6f4-4100-b04a-3ec6decd8836.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hd2r8h0z7u</Fingerprint>
+      <Integrity>Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b0dbecd8-42a0-481a-80fe-9852a0d73302.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ozfy6wzj69</Fingerprint>
+      <Integrity>dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\b98e6db0-d3af-4b62-9372-e605d363b4e2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cfb846eb-4b2f-47a0-b82a-0be9eb484409.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/cfb846eb-4b2f-47a0-b82a-0be9eb484409.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>yyg84zuh7m</Fingerprint>
+      <Integrity>6hdGI2XkEfQY7WklxbYxiQ2YNrE2G5P/TMzRg2qqANU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\cfb846eb-4b2f-47a0-b82a-0be9eb484409.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d25113f9-2491-4ce1-a94b-c401d67b184b.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/d25113f9-2491-4ce1-a94b-c401d67b184b.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>hd2r8h0z7u</Fingerprint>
+      <Integrity>Ow/5S95deIWtP2c4+E7ScvRRLTnpF02dIJ98cQF7D/o=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d25113f9-2491-4ce1-a94b-c401d67b184b.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d58f7200-7e82-4737-950b-75eee1386c6a.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/d58f7200-7e82-4737-950b-75eee1386c6a.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ozfy6wzj69</Fingerprint>
+      <Integrity>dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d58f7200-7e82-4737-950b-75eee1386c6a.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d628ed1b-4c18-4476-84b0-e147649e71a5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/d628ed1b-4c18-4476-84b0-e147649e71a5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q6810413o3</Fingerprint>
+      <Integrity>TsA2ys12B+foLq8TzWr6YNBRLlZcOuMCsB1jk6EIUYw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\d628ed1b-4c18-4476-84b0-e147649e71a5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>12xtdgxzf4</Fingerprint>
+      <Integrity>mYm/SUtPFM1qBjfqbK8c0kvCrRGNxU58e4PE6cjeTRY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\def61829-a776-47a8-bcdf-36b2fb7b2fc5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e89df759-7b87-469b-895f-2e5166d5eb62.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/e89df759-7b87-469b-895f-2e5166d5eb62.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q77tsplug1</Fingerprint>
+      <Integrity>xjl4kRiGy01zffn/ODkRVq5HVu4pGobnxJ0/AhzyIWU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\e89df759-7b87-469b-895f-2e5166d5eb62.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ECommerse Medicine</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ECommerse Medicine</BasePath>
+      <RelativePath>uploads/f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>ozfy6wzj69</Fingerprint>
+      <Integrity>dLv+skAboOx9x+O2JUTZbOcQ75776jgmAOhAqFDzbZk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\f45d7c0e-5e99-4bb0-965a-3631a0442425.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
