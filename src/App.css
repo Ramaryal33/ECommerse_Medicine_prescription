@@ -1,0 +1,201 @@
+/* Hero Section */
+.hero-section {
+  background-size: cover;
+  background-position: top center; /* Ensure doctor's head is visible */
+  background-repeat: no-repeat;
+  height: 100vh;  /* Full viewport height */
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(8, 2, 2);  /* Dark background color */
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);  /* Dark overlay for text contrast */
+  padding: 2rem;
+  text-align: center;
+  border-radius: 1rem;
+}
+
+/* Info Boxes Background Color */
+.info-box {
+  background-color: #007bff; /* Blue background */
+  color: white;
+  padding: 1.5rem;
+  border-radius: 0.5rem;
+  text-align: left;
+  height: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Add subtle shadow */
+}
+
+/* Info Box Button Styling */
+.info-box button {
+  background-color: #ffffff;
+  color: #007bff;
+  border: none;
+}
+
+.info-box button:hover {
+  background-color: #0056b3;
+  color: white;
+}
+
+/* Add Background to Section containing Info Boxes */
+.container.my-5 {
+  background-color: #f0f4f8;  /* Light gray background for the section */
+  padding: 2rem;
+  border-radius: 1rem;
+}
+
+/* Footer Styling */
+.footer {
+  background-color: #e3e038; /* Dark footer background */
+  color: white; /* White text color */
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+}
+
+
+
+/* App.css */
+
+/* Full page background */
+.login-container {
+  min-height: 100vh;
+  background: linear-gradient(to right, #f8b5d0, #8e2de2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+/* Form container styling */
+.login-form-container {
+  background: #fff;
+  padding: 3rem;
+  border-radius: 16px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 500px; /* Increased width */
+}
+
+/* Input fields */
+.custom-input {
+  height: 45px;
+  width: 100%;
+  max-width: 400px;
+  font-size: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+/* Login button */
+.login-btn {
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+}
+
+/* Signup text */
+.signup-link {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.signup-link .link-text {
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.signup-link .link-text:hover {
+  text-decoration: none;
+}
+
+/* Back button */
+.back-button-container .btn {
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+
+
+
+
+/* Background for login and register */
+.login-container,
+.register-container {
+  min-height: 100vh;
+  background: linear-gradient(to right, #f8b5d0, #8e2de2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}
+
+/* Shared form container styling */
+.login-form-container,
+.register-form-container {
+  background: #fff;
+  padding: 3rem;
+  border-radius: 16px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 500px;
+}
+
+/* Input fields */
+.custom-input {
+  height: 45px;
+  width: 100%;
+  max-width: 400px;
+  font-size: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+/* Buttons */
+.login-btn,
+.register-btn {
+  padding: 0.5rem 1.5rem;
+  font-size: 1rem;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+/* Signup/login redirect text */
+.signup-link {
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.signup-link .link-text {
+  color: #007bff;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.signup-link .link-text:hover {
+  text-decoration: none;
+}
+
+
+
+
+form .form-control,
+.table .form-control {
+  border-radius: 6px;
+}
+
+form {
+  background: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+
+
