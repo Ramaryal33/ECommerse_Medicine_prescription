@@ -1,6 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
-import AdminNavbar from '../components/AdminNavbar'; // Ensure this path is correct
+import AdminNavbar from '../components/AdminNavbar'; 
 
 const AdminDashboard = () => {
   const navigate = useNavigate();
